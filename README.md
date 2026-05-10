@@ -19,3 +19,6 @@ students, courses, and faculty records.
 2. Import the project into your IDE (IntelliJ or Eclipse)
 3. Configure MySQL database connection in the config file
 4. Run Main.java
+
+## Screenshots
+![Main Screen](screenshots/main.png)
