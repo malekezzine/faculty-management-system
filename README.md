@@ -21,4 +21,22 @@ students, courses, and faculty records.
 4. Run Main.java
 
 ## Screenshots
-![Main Screen](screenshots/main.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Admin
+![Admin 1](screenshots/admin_crud_etudiant.png)
+![Admin 2](screenshots/admin_crud_prof.png)
+![Admin 3](screenshots/admin_crud_matiere.png)
+![Admin 4](screenshots/admin_emploi.png)
+
+### Student
+![Student 1](screenshots/etudiant_information.png)
+![Student 2](screenshots/etudiant_absence.png)
+![Student 3](screenshots/etudiant_planning.png)
+
+### Professor
+![Prof 1](screenshots/prof_gerer_absences.png)
+![Prof 2](screenshots/prof_saisir_absences.png)
+![Prof 3](screenshots/prof_planning.png)
